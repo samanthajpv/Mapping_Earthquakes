@@ -21,7 +21,7 @@ The purpose of this project was to create an interactive map that plots GeoJSON 
 ## Method
 
 <p align="middle">
-    <img src="" width="700" height="400"/>
+    <img src="https://github.com/samanthajpv/Mapping_Earthquakes/blob/69d4d8061217cb52f42e55b07fe35f6eb00905a1/Earthquake_Challenge/static/additional/interactive_map.gif" width="700" height="400"/>
     <h5 align="center">Interactive Earthquake Map</h5>
 </p>
 
